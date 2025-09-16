@@ -1,0 +1,476 @@
+LOCATION,ONE_LINER,INDUSTRY,BATCH,SUBINDUSTRY,`AI?`
+"Boston, MA, USA",Agents for Accelerated Clinical Trial Design,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"Stanford, CA, USA",AI tutor starting with maths and science,Education,Winter 2025,['Education'],AI Related
+"El Segundo, CA, USA",Autonomous patrol-boats for National Security,Industrials,Winter 2025,"['Industrials', 'Drones']",Not AI Related
+"Copenhagen, Denmark",AI-driven exam prep,Education,Winter 2025,['Education'],AI Related
+Remote,We are rebuilding photoshop with an AI-voice interface.,B2B,Winter 2025,['B2B'],AI Related
+"Toronto, ON, Canada",Canadian neobank focused on lending,Fintech,Winter 2025,"['Fintech', 'Consumer Finance']",Not AI Related
+"San Mateo, CA, USA",Voice AI teams for medicare agencies.,B2B,Winter 2025,['B2B'],AI Related
+"Berlin, Berlin, Germany",Financial OS for Modern Fleets,Fintech,Winter 2025,['Fintech'],Not AI Related
+"Bogota, Bogota, Colombia",AI Accountant for Retail,B2B,Winter 2025,"['B2B', 'Operations']",AI Related
+"Austin, TX, USA",AI-powered Patient Identification for Clinical Trials,Healthcare,Winter 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"Amsterdam, NH, Netherlands",Sync engine to share data across engineering teams in enterprises,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+Remote,"The Javascript framework for building AI agents, from the Gatsby devs",B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"Toronto, ON, Canada",Software Enabled CNC Parts Supplier,Industrials,Winter 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+Remote,Real-time AI Voice Translation,B2B,Winter 2025,"['B2B', 'Productivity']",AI Related
+"Atlanta, GA, USA",Reusable Satellites for zero-g manufacturing,Industrials,Winter 2025,"['Industrials', 'Aviation and Space']",Not AI Related
+"Menlo Park, CA, USA",AI-powered intake nurse,Healthcare,Winter 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"Stockholm, Stockholm County, Sweden",AI Software for Commercial Insurance Brokers,Fintech,Winter 2025,"['Fintech', 'Insurance']",AI Related
+"London, England, United Kingdom",24/7 Global Stock Exchange,Fintech,Spring 2025,"['Fintech', 'Banking and Exchange']",Not AI Related
+"London, England, United Kingdom",AI-powered code review platform,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"London, England, United Kingdom","The best database for building AI applications, agents & RAG ",B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+Remote,Scaling engine for PostgreSQL,B2B,Spring 2025,"['B2B', 'Infrastructure']",Not AI Related
+"Cocoa, FL, USA",AI Driven EPC - Weld Fabrication Contractor,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"New York, NY, USA",AI-powered student information system for K-12 schools,Education,Winter 2025,['Education'],AI Related
+"New York, NY, USA",We help law enforcement solve crime,Government,Winter 2025,['Government'],Not AI Related
+"New York, NY, USA",Risk Decisioning Platform for Banks,B2B,Winter 2025,['B2B'],Not AI Related
+"New York, NY, USA",Digital AI humans that model clothes for e-commerce brands.,B2B,Winter 2025,['B2B'],AI Related
+"New York, NY, USA",Simplifying Collaboration for Healthcare Organizations & Professionals,B2B,Winter 2025,['B2B'],Not AI Related
+"New York, NY, USA",AI-powered research desk for hedge funds,B2B,Winter 2025,"['B2B', 'Finance and Accounting']",AI Related
+"New York, NY, USA",Stablecoin neobank for emerging markets,Fintech,Winter 2025,['Fintech'],Not AI Related
+"New York, NY, USA",AI for Healthcare Compliance,B2B,Winter 2025,"['B2B', 'Legal']",AI Related
+"New York, NY, USA",Automating CRE accounting with AI,Real Estate and Construction,Winter 2025,['Real Estate and Construction'],AI Related
+"New York, NY, USA",Shopify for AI-generated courses,Education,Winter 2025,['Education'],AI Related
+"New York, NY, USA",Misprint is building Robinhood for Pokemon cards,Consumer,Winter 2025,['Consumer'],Not AI Related
+"New York, NY, USA",A vintage marketplace curated by AI,Consumer,Winter 2025,"['Consumer', 'Apparel and Cosmetics']",AI Related
+"New York, NY, USA",Bank transfers as payments for luxury retailers.,Fintech,Spring 2025,"['Fintech', 'Payments']",Not AI Related
+"New York, NY, USA",AI manager for physical stores,B2B,Spring 2025,"['B2B', 'Retail']",AI Related
+"New York, NY, USA",AI-native Zocdoc,Healthcare,Spring 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"New York, NY, USA",AI Agents for Software Implementations,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA","Automated revenue cycle management, starting with dentists",Healthcare,Winter 2025,['Healthcare'],Not AI Related
+"San Francisco, CA, USA",We help business leaders get back into Founder Mode,B2B,Winter 2025,"['B2B', 'Productivity']",Not AI Related
+"San Francisco, CA, USA","A Disease Focused Biotech, Building Multiple Billion Dollar Drugs",Healthcare,Winter 2025,"['Healthcare', 'Therapeutics']",Not AI Related
+"San Francisco, CA, USA",AI drug discovery platform for neurotherapeutics,Healthcare,Winter 2025,"['Healthcare', 'Therapeutics']",AI Related
+"San Francisco, CA, USA",Cursor for Designers,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AI documentation engineer – test & autoimprove stale product docs,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI Teacher Assistant for Grading Essays,Education,Winter 2025,['Education'],AI Related
+"San Francisco, CA, USA",AI for air traffic control,Industrials,Winter 2025,"['Industrials', 'Aviation and Space']",AI Related
+"San Francisco, CA, USA",The AI that builds better AIs,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Voice AI Customer Support for Financial Services,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",We help companies win government funding with AI,Government,Winter 2025,['Government'],AI Related
+"San Francisco, CA, USA",The only self-improving voice AI,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI recruiter tuned to identify the best vibe coders,B2B,Winter 2025,"['B2B', 'Recruiting and Talent']",AI Related
+"San Francisco, CA, USA",Hardware for Electric Vehicles.,Industrials,Winter 2025,['Industrials'],Not AI Related
+"San Francisco, CA, USA",Character.AI with real time video avatars,Consumer,Winter 2025,['Consumer'],AI Related
+"San Francisco, CA, USA",AI Analyst for Electricity Markets,Industrials,Winter 2025,"['Industrials', 'Energy']",AI Related
+"San Francisco, CA, USA",Zero code network tracer,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",An AI teammate that automatically updates your customer-facing docs,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Workflow automation engine,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AWS for AI Agents,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI agents for supply chain workflow automation,B2B,Winter 2025,"['B2B', 'Supply Chain and Logistics']",AI Related
+"San Francisco, CA, USA",AI-powered recruiting team for startups,B2B,Winter 2025,"['B2B', 'Recruiting and Talent']",AI Related
+"San Francisco, CA, USA",Daily productivity tracker,B2B,Winter 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",The AI Maximalist Software Holding Company,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI for insurance verification & billing at dental clinics,Healthcare,Winter 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",People search that works,B2B,Winter 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Twilio for AI Agents,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI coworkers that can learn and act just like a human,B2B,Winter 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",We make mobile apps using AI.,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI recruiter for hiring managers,B2B,Winter 2025,"['B2B', 'Recruiting and Talent']",AI Related
+"San Francisco, CA, USA",the AI inbound sales team for law firms,B2B,Winter 2025,"['B2B', 'Legal']",AI Related
+"San Francisco, CA, USA",AI to measure engineering work,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Visual AI for factories,Industrials,Winter 2025,"['Industrials', 'Manufacturing and Robotics']",AI Related
+"San Francisco, CA, USA",We help defense firms win more contracts with the Pentagon,B2B,Winter 2025,"['B2B', 'Operations']",Not AI Related
+"San Francisco, CA, USA",The AI Growth Engine for Industrials,B2B,Winter 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA","Manufacturing the most powerful chips, 15x faster",Industrials,Winter 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",A foundation model for physics.,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AI Copilot for Ambulance Agencies (EMS),Healthcare,Winter 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",AI compliance co-pilot for regulated financial businesses,B2B,Winter 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",Personalized Updates on Company Progress,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Create and run your own video editing AI agents,Consumer,Winter 2025,"['Consumer', 'Content']",AI Related
+"San Francisco, CA, USA",Make & Watch Fun Videos,Consumer,Winter 2025,['Consumer'],Not AI Related
+"San Francisco, CA, USA",AI to Replace Management Consulting,B2B,Winter 2025,"['B2B', 'Analytics']",AI Related
+"San Francisco, CA, USA",AI Grading for Teachers,Education,Winter 2025,['Education'],AI Related
+"San Francisco, CA, USA",Foundation models to automate x-ray analysis for radiologists,Healthcare,Winter 2025,['Healthcare'],AI Related
+"San Francisco, CA, USA",hud is building evals for the drop-in worker,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Build internal tools for your data with natural language.,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AI Powered Immigration Platform,B2B,Winter 2025,"['B2B', 'Legal']",AI Related
+"San Francisco, CA, USA",AI Browser Agents for the Back-Office,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",We're building a living digital clone for everyone.,Consumer,Winter 2025,"['Consumer', 'Social']",Not AI Related
+"San Francisco, CA, USA",Discovering new pesticides with AI,Industrials,Winter 2025,"['Industrials', 'Agriculture']",AI Related
+"San Francisco, CA, USA",Improving Agents through Reinforcement Learning,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI Healthcare Provider Credentialing Software,Healthcare,Winter 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",Automate back office tasks for medical clinics,Healthcare,Winter 2025,"['Healthcare', 'Healthcare Services']",Not AI Related
+"San Francisco, CA, USA",AI-Native Enterprise Deal Execution Platform,B2B,Winter 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",A new prediction market for businesses,Consumer,Winter 2025,['Consumer'],Not AI Related
+"San Francisco, CA, USA",High Quality Multilingual Training Data for AI Models,B2B,Winter 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",Weights & Biases for AI Agents,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Insider Threat for the AI era,B2B,Winter 2025,"['B2B', 'Security']",AI Related
+"San Francisco, CA, USA","AI agents for CX teams, starting with training and QA.",B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Reasoning models for robotics,B2B,Winter 2025,"['B2B', 'Supply Chain and Logistics']",Not AI Related
+"San Francisco, CA, USA",AI Agents that automate enterprise software processes,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Automate deal origination with AI agents.,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI Employees for Hotels,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Open-Source Unit Testing for LLM Applications,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Enterprise-grade AI support reps for call centers,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI-native commercial insurance brokerage,Fintech,Winter 2025,"['Fintech', 'Insurance']",AI Related
+"San Francisco, CA, USA",AI Quoting and Proposals,B2B,Winter 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",Hands off Salesforce QA,B2B,Winter 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Global B2B Stablecoin Processor,Fintech,Winter 2025,"['Fintech', 'Payments']",Not AI Related
+"San Francisco, CA, USA",We use AI to simulate entire human societies,B2B,Winter 2025,"['B2B', 'Analytics']",AI Related
+"San Francisco, CA, USA",Research lab investigating the boundaries of AI capabilities.,B2B,Winter 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",We help software companies sell to government.,Government,Winter 2025,['Government'],Not AI Related
+"San Francisco, CA, USA",AI performance monitoring for factory workers,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI Value Creation Team for Private Equity,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI platform enabling anyone to build and scale software businesses,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA","Test, monitor, and improve your voice agents",B2B,Winter 2025,"['B2B', 'Analytics']",Not AI Related
+"San Francisco, CA, USA",AI Game Builder,Consumer,Spring 2025,"['Consumer', 'Gaming']",AI Related
+"San Francisco, CA, USA",AI for accounting,B2B,Winter 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",The AI RPA - Powered by Browser Agents,B2B,Winter 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",AI Agents for Sales Operations,B2B,Winter 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",Cursor for Microsoft Word,B2B,Winter 2025,"['B2B', 'Productivity']",Not AI Related
+"San Francisco, CA, USA",Leading open-source web agent project with 50k stars in 3 months,B2B,Winter 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",AI Copilot for Graphic Design,Consumer,Winter 2025,['Consumer'],AI Related
+"San Francisco, CA, USA",Building the lunar future.,Industrials,Winter 2025,"['Industrials', 'Aviation and Space']",Not AI Related
+"San Francisco, CA, USA",Reasoning Fine-Tuning,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA","Building Dex, the AI Browser Copilot",B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Helping scientists and engineers run experiments with AI.,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",The AI Software Architect,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Open Source React.js Library for AI Chat,B2B,Winter 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",AI voice for property managers,Real Estate and Construction,Summer 2025,['Real Estate and Construction'],AI Related
+"San Francisco, CA, USA",Building the open source smart glasses operating system.,Consumer,Winter 2025,"['Consumer', 'Virtual and Augmented Reality']",Not AI Related
+"San Francisco, CA, USA",AWS for AI Agents,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",The first AI mortgage lender,Fintech,Spring 2025,"['Fintech', 'Credit and Lending']",AI Related
+"San Francisco, CA, USA",Scale AI for Medical Scans,Healthcare,Spring 2025,['Healthcare'],AI Related
+"San Francisco, CA, USA",Simulation Engine for Benchmarking AI Products,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA","Software to monitor, control, and optimize data centers.",B2B,Spring 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",The AI workforce for healthcare operations.,Healthcare,Spring 2025,"['Healthcare', 'Healthcare Services']",AI Related
+"San Francisco, CA, USA",Swarm robotics and full AI-command hierarchy integration,Industrials,Spring 2025,"['Industrials', 'Aviation and Space']",AI Related
+"San Francisco, CA, USA",The AI knowledge graph for institutional investors,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Vertical AI for highly-regulated manufacturing,Industrials,Spring 2025,"['Industrials', 'Aviation and Space']",AI Related
+"San Francisco, CA, USA",Your First AI Sales Hire for Wholesale Distributors,B2B,Spring 2025,"['B2B', 'Supply Chain and Logistics']",AI Related
+"San Francisco, CA, USA",Voice AI Medical Rep for Pharma,Healthcare,Spring 2025,['Healthcare'],AI Related
+"San Francisco, CA, USA",Automating Enterprise Software Implementations,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA","One-click mortgage: AI shops, negotiates, and handles your application",Fintech,Spring 2025,"['Fintech', 'Consumer Finance']",AI Related
+"San Francisco, CA, USA",The AI Agent Platform for Knowledge Workers.,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Affordable robotic workers,Industrials,Spring 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",AI-powered robotics for scientific lab automation.,Industrials,Spring 2025,"['Industrials', 'Manufacturing and Robotics']",AI Related
+"San Francisco, CA, USA",AI operating system for healthcare organizations,Healthcare,Spring 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",Rippling for Content Creators,B2B,Spring 2025,"['B2B', 'Operations']",Not AI Related
+"San Francisco, CA, USA",Perplexity for internal docs,B2B,Spring 2025,"['B2B', 'Productivity']",Not AI Related
+"San Francisco, CA, USA",Open source platform to build AI agent workflows,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI agents that help you understand your customers' needs,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI-powered data entry for wholesalers and distributors,B2B,Spring 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA","Faster builds, zero effort.",B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",We automate your entire product development lifecycle.,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",The authentication framework for TypeScript,B2B,Spring 2025,"['B2B', 'Security']",Not AI Related
+"San Francisco, CA, USA",AI Infrastructure for autonomous software creation and interaction,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Post-training Data Research Lab,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA","Tinfoil makes your AI workflows secure, verifiable, and private.",B2B,Spring 2025,"['B2B', 'Security']",AI Related
+"San Francisco, CA, USA",Grammarly for Math ✏️,Education,Spring 2025,['Education'],Not AI Related
+"San Francisco, CA, USA",Voice AI Interviews for Enterprise,B2B,Spring 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA",Deep Research for People,B2B,Spring 2025,"['B2B', 'Recruiting and Talent']",Not AI Related
+"San Francisco, CA, USA",AI Agents for Research,B2B,Spring 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA",The data layer for scientific research,B2B,Spring 2025,"['B2B', 'Analytics']",Not AI Related
+"San Francisco, CA, USA",Documentation made for AI Agents,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Open-source multimodal search for AI apps,B2B,Spring 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",Cursor for Sales,B2B,Spring 2025,"['B2B', 'Sales']",Not AI Related
+"San Francisco, CA, USA",AI-Native Zoom For Revenue Teams,B2B,Spring 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",Self-Learning for AI Agents,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI-Powered Collections Platform for Food Distributors,Fintech,Winter 2025,"['Fintech', 'Credit and Lending']",AI Related
+"San Francisco, CA, USA",Stripe for AI startups,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Automating refurbishment of $1T in consumer electronics,Industrials,Winter 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",AI that understands construction blueprints,Real Estate and Construction,Winter 2025,"['Real Estate and Construction', 'Construction']",AI Related
+"San Francisco, CA, USA",AI Copilot that automates admin work for veterinary professionals,B2B,Winter 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",Reddit Marketing Agent for technical audiences,B2B,Winter 2025,"['B2B', 'Marketing']",AI Related
+"San Francisco, CA, USA",AI-Native Commercial Real Estate Brokerage,Real Estate and Construction,Winter 2025,['Real Estate and Construction'],AI Related
+"San Francisco, CA, USA",Software that maps your infrastructure. Open core alternative to Wiz,B2B,Winter 2025,"['B2B', 'Security']",Not AI Related
+"San Francisco, CA, USA",Design a chip in minutes,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA","Trade memecoins, perpetuals, and earn yield.",Fintech,Winter 2025,"['Fintech', 'Consumer Finance']",Not AI Related
+"San Francisco, CA, USA",AI Website Builder,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",The AI Native Email Client,B2B,Winter 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",The world’s first AI energy developer,Industrials,Winter 2025,"['Industrials', 'Energy']",AI Related
+"San Francisco, CA, USA",Voice AI for medical language translation,Healthcare,Winter 2025,"['Healthcare', 'Healthcare Services']",AI Related
+"San Francisco, CA, USA",AI to monitor thousands of security cameras.,B2B,Winter 2025,"['B2B', 'Security']",AI Related
+"San Francisco, CA, USA",Fusion reactors for ships,Industrials,Winter 2025,"['Industrials', 'Energy']",Not AI Related
+"San Francisco, CA, USA",AI Powered CAD,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI agents for Audit,B2B,Winter 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",High accuracy search API over unstructured data.,B2B,Winter 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",Real-Time Self-Improvement for AI Agents,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Real-time AI translator for global sales and marketing,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",The AI investment analyst,Fintech,Winter 2025,['Fintech'],AI Related
+"San Francisco, CA, USA","Exchange and co-located trading facility, on a chip.",Fintech,Winter 2025,"['Fintech', 'Banking and Exchange']",Not AI Related
+"San Francisco, CA, USA",Robots that repair roads,Industrials,Winter 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",AI Agents for Complex Engineering Projects,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",interactive video models,Consumer,Winter 2025,['Consumer'],Not AI Related
+"San Francisco, CA, USA",Get Your Brand Discovered on ChatGPT.,B2B,Winter 2025,"['B2B', 'Marketing']",Not AI Related
+"San Francisco, CA, USA",We automate urban planning so cities can build cheaper and faster.,Government,Winter 2025,['Government'],AI Related
+"San Francisco, CA, USA",An SDK to run transformer models anywhere,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AI game development engine & platform,Consumer,Winter 2025,"['Consumer', 'Gaming']",AI Related
+"San Francisco, CA, USA",Building your AI finance co-worker,B2B,Winter 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",High Thrust Space Vehicles for Satellite Defense,Industrials,Winter 2025,"['Industrials', 'Aviation and Space']",Not AI Related
+"San Francisco, CA, USA",Self-improving knowledge base synthesizing scattered company data,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",The only sales software you will ever need.,B2B,Winter 2025,"['B2B', 'Sales']",Not AI Related
+"San Francisco, CA, USA",AI co-pilot for building plan review and building code compliance,Real Estate and Construction,Winter 2025,"['Real Estate and Construction', 'Construction']",AI Related
+"San Francisco, CA, USA",Coding Agents for Engineering Managers,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Making humanoids dexterous enough to thread a needle,Industrials,Winter 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",AI-native ATS/CRM for recruiting firms,B2B,Winter 2025,"['B2B', 'Recruiting and Talent']",AI Related
+"San Francisco, CA, USA",Build apps and agents by speaking with AI,B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI-Powered Hardware System Design Software,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Vercel For GPUs,B2B,Winter 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",Behavioral Cache for Agents,B2B,Winter 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",Voice Agents for Physical Retail Stores,B2B,Spring 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA",The open source copilot for any app,B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AI Quote and Order Automation for Distributors & Manufacturers,B2B,Winter 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA","Live, AI-powered graph of every possible click path in your software",B2B,Winter 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Coming soon!,B2B,Winter 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA","An Collaborative, AI-native IDE for Hardware Engineers",B2B,Winter 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Agentic AI platform for investment firms,B2B,Winter 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",AI-powered Account Managers,B2B,Summer 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",Stablecoin API for global payments,Fintech,Winter 2025,"['Fintech', 'Payments']",Not AI Related
+"San Francisco, CA, USA",A Roomba for weeds on a farm.,Industrials,Winter 2025,"['Industrials', 'Agriculture']",Not AI Related
+"San Francisco, CA, USA",Open-source agents to build predictive ML models from a prompt,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Lovable for internal apps,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Cursor for data teams.,B2B,Spring 2025,"['B2B', 'Analytics']",Not AI Related
+"San Francisco, CA, USA",Open-source platform for building production MCP servers,B2B,Spring 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",Build and share mobile apps in seconds,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AI agents for insurance claims operations,Fintech,Spring 2025,"['Fintech', 'Insurance']",AI Related
+"San Francisco, CA, USA",AI to Replace SMB Bookkeepers,B2B,Spring 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",Docker for Computer-use Agents,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA","Personal AI healthcare agent, powered by clinical and wearable data.",Healthcare,Spring 2025,"['Healthcare', 'Consumer Health and Wellness']",AI Related
+"San Francisco, CA, USA",🪸 AI consumer social,Consumer,Spring 2025,['Consumer'],AI Related
+"San Francisco, CA, USA",Anvil is the SEO platform for the AI era,B2B,Spring 2025,"['B2B', 'Marketing']",AI Related
+"San Francisco, CA, USA",The first AI revenue platform for post-acute healthcare,Healthcare,Spring 2025,['Healthcare'],AI Related
+"San Francisco, CA, USA",AI robots for manufacturing,Industrials,Spring 2025,"['Industrials', 'Manufacturing and Robotics']",AI Related
+"San Francisco, CA, USA",Open Source Data Ingestion For AI,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI tutor for each student.,Education,Spring 2025,['Education'],AI Related
+"San Francisco, CA, USA",Cursor for Teachers,Education,Spring 2025,['Education'],Not AI Related
+"San Francisco, CA, USA",Embodied AI Platform for Industrial Robotics,Industrials,Spring 2025,"['Industrials', 'Manufacturing and Robotics']",AI Related
+"San Francisco, CA, USA",AI CRM for Government,Government,Spring 2025,['Government'],AI Related
+"San Francisco, CA, USA",The world's first quality assurance agency for voice AI.,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Business Analytics for Unstructured Data,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",AI coworker for accountants,B2B,Spring 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",How great teams build internal software & agent workflows,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",AI-Driven Optical System Design,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI for Field Inspection Reports,Real Estate and Construction,Spring 2025,"['Real Estate and Construction', 'Construction']",AI Related
+"San Francisco, CA, USA",Reshaping neighborhood services with robotics.,Industrials,Spring 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",Integrate instantly with any website.,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",AI-optimized ticket resale,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Reinforcement learning as a service,B2B,Spring 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA","Evaluate AI agents and apps on security, safety, and accuracy.",B2B,Spring 2025,"['B2B', 'Security']",AI Related
+"San Francisco, CA, USA",The AI Associate for Litigation Lawyers,B2B,Spring 2025,"['B2B', 'Legal']",AI Related
+"San Francisco, CA, USA",AI-native operating system for vehicle fleet management,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Function Health for Europe,Healthcare,Spring 2025,"['Healthcare', 'Consumer Health and Wellness']",Not AI Related
+"San Francisco, CA, USA",Vertical AI agents that run the sales funnel on autopilot,B2B,Spring 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",AI employees that automate medical operations for clinics.,Healthcare,Spring 2025,"['Healthcare', 'Healthcare Services']",AI Related
+"San Francisco, CA, USA",AI-native Datadog + Amplitude,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",The first ops platform built for FDEs,B2B,Summer 2025,['B2B'],Not AI Related
+"Redwood City, CA, USA",AI powered data annotation,B2B,Spring 2025,['B2B'],AI Related
+"Cambridge, England, United Kingdom",Efficient and compact power supply for AI hardware,Industrials,Spring 2025,"['Industrials', 'Energy']",AI Related
+"Boston, MA, USA",Robots for the inspection and maintenance of data centers,Industrials,Spring 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"London, England, United Kingdom",Deploy AI models locally on smartphones.,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"Cambridge, MA, USA",American drug manufacturing,Healthcare,Spring 2025,['Healthcare'],Not AI Related
+"Paris, Île-de-France, France",AI financial auditors,B2B,Spring 2025,"['B2B', 'Finance and Accounting']",AI Related
+"Cupertino, CA, USA","Vibe code, test, and deploy Swift apps. All from your iPhone.",B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"London, England, United Kingdom",Consumer focus groups run by AI,B2B,Summer 2025,"['B2B', 'Marketing']",AI Related
+"Dublin, CA, USA",Suite of AI Agents and Tools to Accelerate HDL Design,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"Overland Park, KS, USA",Track bulk inventory with autonomous drones and 3D vision,B2B,Summer 2025,"['B2B', 'Supply Chain and Logistics']",AI Related
+"Bielefeld, NRW, Germany",Frontend coding agent for real codebases,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+Remote,The Cross-Border Neobank for the Middle East and its Diaspora,Fintech,Summer 2025,['Fintech'],Not AI Related
+"New York, NY, USA",Managed GPU-accelerated Spark + SQL at 2x speed and half the cost,B2B,Spring 2025,"['B2B', 'Infrastructure']",Not AI Related
+"New York, NY, USA",AI + human review to solve data cleaning - accessible via API or Excel,B2B,Spring 2025,"['B2B', 'Finance and Accounting']",AI Related
+"New York, NY, USA",AI-powered code security,B2B,Spring 2025,"['B2B', 'Security']",AI Related
+"New York, NY, USA",The agentic CRM for blue-collar services,B2B,Spring 2025,['B2B'],Not AI Related
+"New York, NY, USA",A tool to evaluate and optimize AI agents using human feedback.,B2B,Summer 2025,['B2B'],AI Related
+"New York, NY, USA",Secure access control and authorization platform for agent workflows,B2B,Summer 2025,"['B2B', 'Security']",Not AI Related
+"New York, NY, USA",AI agents for property accounting,Real Estate and Construction,Summer 2025,"['Real Estate and Construction', 'Housing and Real Estate']",AI Related
+"New York, NY, USA",An applied simulations lab building The Interface,Consumer,Summer 2025,"['Consumer', 'Gaming']",Not AI Related
+"New York, NY, USA",Database of every product on the internet,B2B,Summer 2025,"['B2B', 'Retail']",Not AI Related
+"New York, NY, USA",AI Agents for Continuous Offensive Security Testing,B2B,Summer 2025,"['B2B', 'Security']",AI Related
+"New York, NY, USA",The AI data analyst for biology labs,Healthcare,Summer 2025,['Healthcare'],AI Related
+"New York, NY, USA",Investment monitoring & reporting for private market investors,Fintech,Summer 2025,"['Fintech', 'Asset Management']",Not AI Related
+"New York, NY, USA",AI Native Retention Marketing for E-Commerce,B2B,Summer 2025,"['B2B', 'Marketing']",AI Related
+"New York, NY, USA",AI referral management for Health Centers,Healthcare,Summer 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"New York, NY, USA",We turn rigid forms into AI convos that collect better data faster.,B2B,Summer 2025,"['B2B', 'Operations']",AI Related
+"New York, NY, USA",AI powered brokerage reducing residential rental commissions in NYC…,Real Estate and Construction,Summer 2025,['Real Estate and Construction'],AI Related
+"São Paulo, SP, Brazil",Brazilians can now receive USD & crypto instantly,Fintech,Summer 2025,['Fintech'],Not AI Related
+"Santa Clara, CA, USA",The only voice assistant that can control every app on your phone.,Consumer,Summer 2025,['Consumer'],Not AI Related
+"Detroit, MI, USA","The modern factory for fast, low-cost metals. ",Industrials,Summer 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",AI Mobile App Quality Assurance Tester,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Understand your users beyond the numbers,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Your Copilot for Building Chemical Projects,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Training LLMs to be expert bug finders,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk,Consumer,Spring 2025,"['Consumer', 'Consumer Electronics']",Not AI Related
+"San Francisco, CA, USA",The AI Operator for Financial Services,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI powered email client that manages your email so you don't have to.,B2B,Spring 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",AI-powered operating system for trucking companies.,B2B,Spring 2025,"['B2B', 'Supply Chain and Logistics']",AI Related
+"San Francisco, CA, USA",Synthetic Agents to Simulate Real Users,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Battle-Test AI Agents with Human Simulation,B2B,Spring 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",The Autonomous GEO Platform,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Cursor for CTOs,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",We help you get compliant while you focus on your business.,B2B,Spring 2025,"['B2B', 'Security']",Not AI Related
+"San Francisco, CA, USA",Real-time AI Compliance for Medical Documentation,Healthcare,Spring 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",AI to replace manual work in environmental compliance reporting,Industrials,Spring 2025,"['Industrials', 'Climate']",AI Related
+"San Francisco, CA, USA",AI staff engineer: software architect that leads coding agents,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI Agents for Security Operations Teams,B2B,Spring 2025,"['B2B', 'Security']",AI Related
+"San Francisco, CA, USA",Experiment tracking for training ML models,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Agentic internal tools,B2B,Spring 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",Modernizing the police workflow.,Government,Spring 2025,['Government'],Not AI Related
+"San Francisco, CA, USA",AI copilot for solopreneurs,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Play the latest games in your browser with no downloads,Consumer,Spring 2025,"['Consumer', 'Gaming']",Not AI Related
+"San Francisco, CA, USA",Cursor for DevOps,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Program verification so even your systems engineers can vibecode,B2B,Spring 2025,"['B2B', 'Security']",Not AI Related
+"San Francisco, CA, USA",Open-Source Tool That Lets Agents Search Any App,B2B,Spring 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",The AI-native legal back office,B2B,Spring 2025,"['B2B', 'Legal']",AI Related
+"San Francisco, CA, USA","Building Donna, your AI Chief of Staff",B2B,Spring 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",AI Agents to win denied health insurance claims.,Healthcare,Spring 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",AI Physics Engine to replace simulations and prototypes,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Autonomous Factories for American Manufacturing,Industrials,Spring 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",AI agents for web testing,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Sell with a text.,Consumer,Summer 2025,['Consumer'],Not AI Related
+"San Francisco, CA, USA",AI companion that helps you learn languages,Consumer,Summer 2025,['Consumer'],AI Related
+"San Francisco, CA, USA",Tech-Enabled Distribution for Retailers in Southeast Asia,B2B,Summer 2025,"['B2B', 'Supply Chain and Logistics']",Not AI Related
+"San Francisco, CA, USA",An AI-Native Browser,Consumer,Summer 2025,['Consumer'],AI Related
+"San Francisco, CA, USA",AI employees for commercial real estate,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Robotics models to automate industries where errors can kill,Industrials,Summer 2025,"['Industrials', 'Manufacturing and Robotics']",AI Related
+"San Francisco, CA, USA",MCP gateway-as-a-service for agentic AI workflows.,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",ai-native admin for HVAC,B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",We help products get mentioned in ChatGPT.,B2B,Summer 2025,"['B2B', 'Marketing']",Not AI Related
+"San Francisco, CA, USA",Cursor for evals and human data,B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Data and environments to train computer use AI,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Open source AI agents automatically fix your production bugs,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Email Infrastructure for AI Agents,B2B,Summer 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",Building the unified governance layer for regulated industries,B2B,Summer 2025,"['B2B', 'Legal']",Not AI Related
+"San Francisco, CA, USA",Computational toolkit for RNA therapeutics,Healthcare,Summer 2025,"['Healthcare', 'Therapeutics']",Not AI Related
+"San Francisco, CA, USA",AI agents for individual investors,Fintech,Summer 2025,"['Fintech', 'Consumer Finance']",AI Related
+"San Francisco, CA, USA",Voice AI for booking freight,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Most Powerful AI Video Gen Model for Explainer Videos From Documents,B2B,Summer 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA","The fastest, most affordable payroll for global teams",Fintech,Summer 2025,"['Fintech', 'Payments']",Not AI Related
+"San Francisco, CA, USA",Browser agents for finding UX bugs in your product,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Superhuman for text messages,B2B,Summer 2025,"['B2B', 'Productivity']",Not AI Related
+"San Francisco, CA, USA",Scale AI for video and voice data.,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Your AI pharmacy technician,Healthcare,Summer 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",AI models that teach robots new skills in hours,Industrials,Summer 2025,"['Industrials', 'Manufacturing and Robotics']",AI Related
+"San Francisco, CA, USA",Automating drawing reviews for construction contractors,Real Estate and Construction,Summer 2025,"['Real Estate and Construction', 'Construction']",Not AI Related
+"San Francisco, CA, USA",AI DevOps Engineer,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",AI Agents for Billing Operations,B2B,Summer 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA",The AI Call Center for Local Governments,Government,Summer 2025,['Government'],AI Related
+"San Francisco, CA, USA",World's largest crowdsourced benchmark for AI-generated design,Consumer,Summer 2025,['Consumer'],AI Related
+"San Francisco, CA, USA","Cursor for Data Science — secure, AI-native IDE for data scientists",B2B,Summer 2025,"['B2B', 'Analytics']",AI Related
+"San Francisco, CA, USA",The AI GIS Platform,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI agents that find you customers who already want to buy,B2B,Summer 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",The Alignment Company.,B2B,Summer 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",Cursor for CUDA,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Voice data that makes machines sound human,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AI phone agents for Commercial Lending,B2B,Summer 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",The computer use agent for developers to automate legacy desktop apps,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",The AI-Native Jira,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Spot GPU marketplace that uses idle GPUs from enterprises,B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",The billing system for AI products,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA","AI grading for teachers, starting with math",Education,Summer 2025,['Education'],AI Related
+"San Francisco, CA, USA",Frontier Intelligence. On Any Device.,B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Your team's AI software engineer,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Lovable for automations,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Make AI data centers more efficient.,B2B,Summer 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",AI procurement analysts for advanced industries,B2B,Summer 2025,"['B2B', 'Supply Chain and Logistics']",AI Related
+"San Francisco, CA, USA",AI media manager,B2B,Summer 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA",Open-source identity-aware gateway to applications on private networks,B2B,Summer 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",Palantir for Health AI Agents,Healthcare,Summer 2025,['Healthcare'],AI Related
+"San Francisco, CA, USA",ChatGPT with Hands,B2B,Summer 2025,"['B2B', 'Productivity']",Not AI Related
+"San Francisco, CA, USA",AI-native video editing software that automates video post-production,Consumer,Summer 2025,"['Consumer', 'Content']",AI Related
+"San Francisco, CA, USA",The simulation and evaluation engine for AI agents,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Implantable microchips for cattle monitoring,Industrials,Summer 2025,"['Industrials', 'Agriculture']",Not AI Related
+"San Francisco, CA, USA","Firmware in minutes, not months - rigorously tested on real hardware",B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Building tiny frontier AI models that run on edge devices,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Deep research for class action lawsuits,B2B,Summer 2025,"['B2B', 'Legal']",Not AI Related
+"San Francisco, CA, USA",AI-native Red Teaming and Offensive Security,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA","Evaluate, Deploy, and Monitor Clinical AI",Healthcare,Summer 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",Simulated human biology and synthetic medical datasets.,Healthcare,Summer 2025,['Healthcare'],Not AI Related
+"San Francisco, CA, USA",Autonomous AI workforce for PE roll-ups,B2B,Summer 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA",Workflow engine routing repetitive tasks to AI agents,B2B,Summer 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",The agentic debugger for AI systems,B2B,Summer 2025,"['B2B', 'Analytics']",AI Related
+"San Francisco, CA, USA",Developing chemical super intelligence - one agent at a time.…,Healthcare,Summer 2025,"['Healthcare', 'Drug Discovery and Delivery']",Not AI Related
+"San Francisco, CA, USA",We Bring Customers to Your Dealership,Industrials,Summer 2025,"['Industrials', 'Automotive']",Not AI Related
+"San Francisco, CA, USA",Claude Code for Firmware,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Granola for in-person conversations,B2B,Summer 2025,"['B2B', 'Sales']",Not AI Related
+"San Francisco, CA, USA","A database for your mind, built on plain text.",Consumer,Summer 2025,['Consumer'],Not AI Related
+"San Francisco, CA, USA","Modern compliance for drones, robots, IoT, and beyond",Industrials,Summer 2025,['Industrials'],Not AI Related
+"San Francisco, CA, USA","Engineers for AI era, starting with contextual layer for coding agents",B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Analyze and understand complex agent workflows with clarity.,B2B,Summer 2025,"['B2B', 'Operations']",Not AI Related
+"San Francisco, CA, USA",Cursor for music production,Consumer,Summer 2025,['Consumer'],Not AI Related
+"San Francisco, CA, USA",Harvey for insurance,Fintech,Summer 2025,"['Fintech', 'Insurance']",Not AI Related
+"San Francisco, CA, USA","Automating clinical trials with agents, starting in recruitment",Healthcare,Summer 2025,"['Healthcare', 'Healthcare IT']",Not AI Related
+"San Francisco, CA, USA","16"" missiles that target and shoot down drones",Industrials,Summer 2025,"['Industrials', 'Drones']",Not AI Related
+"San Francisco, CA, USA",Open-source dev tools and infrastructure for MCP.,B2B,Summer 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",Open-source AI notetaker for enterprises,B2B,Summer 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",Next Gen Data,B2B,Summer 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",Voice AI Executive Assistant,Consumer,Summer 2025,['Consumer'],AI Related
+"San Francisco, CA, USA",QA agent for mobile teams,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Convert textual content into explainer videos in < 15s,B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",The command center for your AI agents,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI agents that automate administrative work across college campuses.,Education,Summer 2025,['Education'],AI Related
+"San Francisco, CA, USA",AI Customer Support Teams for E-commerce,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI coworkers for fraud and risk teams.,B2B,Summer 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA",The easiest and most powerful way to build apps with AI.,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Creating the next trillion RL environments.,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Full-stack AI BPO for travel & transport,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI platform to grow and to optimize car washes,B2B,Summer 2025,"['B2B', 'Sales']",AI Related
+"San Francisco, CA, USA",We audit medical claims for self-insured employers and health plans.,Healthcare,Summer 2025,"['Healthcare', 'Healthcare IT']",Not AI Related
+"San Francisco, CA, USA",Helping commercial real estate brokers find and close more deals.,Real Estate and Construction,Summer 2025,['Real Estate and Construction'],Not AI Related
+"San Francisco, CA, USA",Voice AI Agents for Debt Collection,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Automating compliance checks for engineering drawings,Industrials,Summer 2025,['Industrials'],Not AI Related
+"San Francisco, CA, USA",AI HR manager for hourly teams,B2B,Summer 2025,"['B2B', 'Human Resources']",AI Related
+"San Francisco, CA, USA",The AI tutor that lives in your notes,Education,Summer 2025,['Education'],AI Related
+"San Francisco, CA, USA",The world's first AI-maximalist pharma company,Healthcare,Summer 2025,"['Healthcare', 'Drug Discovery and Delivery']",AI Related
+"San Francisco, CA, USA",Pally is an AI Relationship Management Platform,B2B,Summer 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",Reliable Web Agents for Enterprise,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Replacing the restaurant phone line with Voice AI,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",We automate creator marketing for the world's largest brands,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Crazy Fast Browsers-as-a-Service,B2B,Summer 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",Text your personal AI clone,Consumer,Summer 2025,['Consumer'],AI Related
+"San Francisco, CA, USA","Build agents using natural language, it's Lovable for agents",B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Building a GPS alternative 100x more powerful with no hardware needed.,B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Code from your phone,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",The AI CRM for Real Estate Agents,Real Estate and Construction,Summer 2025,"['Real Estate and Construction', 'Housing and Real Estate']",AI Related
+"San Francisco, CA, USA",Optimizing fleet planning with data driven algorithms,B2B,Summer 2025,"['B2B', 'Supply Chain and Logistics']",Not AI Related
+"San Francisco, CA, USA",All-in-one TypeScript platform for startups,B2B,Summer 2025,"['B2B', 'Infrastructure']",Not AI Related
+"San Francisco, CA, USA",AI Agent for Clinic EMRs,Healthcare,Summer 2025,"['Healthcare', 'Healthcare IT']",AI Related
+"San Francisco, CA, USA",The AI support engineering agent,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Governance for AI Employees,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Ultra-realistic AI Recruiter,B2B,Summer 2025,"['B2B', 'Recruiting and Talent']",AI Related
+"San Francisco, CA, USA",AI agents for loan servicing and collections,Fintech,Summer 2025,"['Fintech', 'Credit and Lending']",AI Related
+"San Francisco, CA, USA",AI agents for industrial commerce,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Agentic Operating System for Food Supply Chain,B2B,Summer 2025,"['B2B', 'Supply Chain and Logistics']",AI Related
+"San Francisco, CA, USA",Voice AI Agents For Financial Services And Other Regulated Industries,Fintech,Summer 2025,['Fintech'],AI Related
+"San Francisco, CA, USA",Cursor for Lawyers. Agentic AI in MS Office.,B2B,Spring 2025,"['B2B', 'Legal']",AI Related
+"San Francisco, CA, USA",Agents for in-house legal teams,B2B,Spring 2025,"['B2B', 'Legal']",AI Related
+"San Francisco, CA, USA",Open Source MCP Integrations for AI Applications,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",quantum-accelerated AI servers,Industrials,Spring 2025,['Industrials'],AI Related
+"San Francisco, CA, USA",Software tool for designing robots and machines,Industrials,Spring 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",Reinventing the trading terminal — one intelligent agent at a time.,Fintech,Spring 2025,['Fintech'],Not AI Related
+"San Francisco, CA, USA",Valuemate automates real estate appraisals with AI,B2B,Spring 2025,['B2B'],AI Related
+"San Francisco, CA, USA",Scale personalized service to every customer.,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",chrt is a logistics platform for time-critical shipping,B2B,Spring 2025,"['B2B', 'Supply Chain and Logistics']",Not AI Related
+"San Francisco, CA, USA",Autonomous Security Agents,B2B,Spring 2025,"['B2B', 'Security']",AI Related
+"San Francisco, CA, USA",Automatically write and update internal docs with every code commit.,B2B,Spring 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",Hands off QA via intelligent browser agents.,B2B,Spring 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Cursor for knowledge workers,B2B,Spring 2025,"['B2B', 'Productivity']",Not AI Related
+"San Francisco, CA, USA",AI Engineer to troubleshoot manufacturing line issues,B2B,Spring 2025,"['B2B', 'Operations']",AI Related
+"San Francisco, CA, USA",AI in your group chats,Consumer,Spring 2025,['Consumer'],AI Related
+"San Francisco, CA, USA",Deep space communications as a service,Industrials,Spring 2025,"['Industrials', 'Aviation and Space']",Not AI Related
+"San Francisco, CA, USA",A team of coding agents in your pocket,B2B,Summer 2025,"['B2B', 'Productivity']",Not AI Related
+"San Francisco, CA, USA",Physics-based foundation models for CAD optimization.,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",The World's First AI-Native Ad Network.,B2B,Summer 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA","Analyze any footage, without training a model",B2B,Summer 2025,"['B2B', 'Analytics']",Not AI Related
+"San Francisco, CA, USA",AI-native ERP for food wholesalers,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",AI operating system for ambulance agencies,Healthcare,Summer 2025,['Healthcare'],AI Related
+"San Francisco, CA, USA",Training the best computer use models in the world. Automate anything.,B2B,Summer 2025,"['B2B', 'Productivity']",Not AI Related
+"San Francisco, CA, USA",AI agents for distributors and manufacturers to automate order entry.,B2B,Summer 2025,"['B2B', 'Supply Chain and Logistics']",AI Related
+"San Francisco, CA, USA",Prompt to full stack app with visual workflows,B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Helping regulated firms show up in AI search.,Fintech,Summer 2025,['Fintech'],AI Related
+"San Francisco, CA, USA",Autonomous undersea vehicles to deter maritime invasions.,Government,Summer 2025,['Government'],Not AI Related
+"San Francisco, CA, USA",AI accounting for enterprise finance teams,B2B,Summer 2025,"['B2B', 'Finance and Accounting']",AI Related
+"San Francisco, CA, USA",AI Insurance for hardware.,Fintech,Summer 2025,"['Fintech', 'Insurance']",AI Related
+"San Francisco, CA, USA",Procurement Platform for Dental Offices,B2B,Summer 2025,['B2B'],Not AI Related
+"San Francisco, CA, USA",Talk to your AI,Consumer,Summer 2025,"['Consumer', 'Consumer Electronics']",AI Related
+"San Francisco, CA, USA",AI Motion Designer,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",AI Related
+"San Francisco, CA, USA",Waymo for excavators,Industrials,Summer 2025,"['Industrials', 'Manufacturing and Robotics']",Not AI Related
+"San Francisco, CA, USA",Computer-use agents for CPA firms to automate taxes,B2B,Summer 2025,"['B2B', 'Productivity']",AI Related
+"San Francisco, CA, USA",Next-gen observability that finds & fixes bugs automatically,B2B,Summer 2025,"['B2B', 'Engineering, Product and Design']",Not AI Related
+"San Francisco, CA, USA",AI regulatory drafting and compliance,B2B,Summer 2025,"['B2B', 'Legal']",AI Related
+"San Francisco, CA, USA",Build AI agents for field technicians to diagnose and sell 10x better,Industrials,Summer 2025,['Industrials'],AI Related
+"San Francisco, CA, USA",Simple ML framework and cloud for generating fast GPU code.,B2B,Summer 2025,"['B2B', 'Infrastructure']",AI Related
+"San Francisco, CA, USA",RealRoots is a mobile app that guarantees women lifelong friendships.,Consumer,Summer 2025,"['Consumer', 'Social']",Not AI Related
+"San Francisco, CA, USA",Foundational Voice AI for underserved languages,B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA","AI-native CRM for billing, renewals, and expansions",B2B,Summer 2025,['B2B'],AI Related
+"San Francisco, CA, USA",We build AI support engineers for outsourced IT services (MSPs),B2B,Fall 2025,['B2B'],AI Related
