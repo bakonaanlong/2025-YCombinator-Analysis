@@ -1,4 +1,4 @@
-# 2025-YCombinator-Analysis
+                                    # 2025-YCombinator-Analysis
 
 This is a documented Analysis of 2025 YC compoanies. This markdown will contain the entire process from   the data collection-Cleaning/EDA-Visualization.
 
