@@ -9,6 +9,8 @@ The first step was obtaining the datasets from kaggle ('yc_companies.csv' in the
 I then proceeded to Data Cleaning. It wasn't so smooth since I'm still getting used to snowflake and its subtle differences from MySQL, but i made it happen. Find below the scripts for the entire cleaning process
 
 Script 1 - https://app.snowflake.com/eu-central-2.aws/op54975/wgm8fhCyUFK
+
+
 Script 2 - https://app.snowflake.com/eu-central-2.aws/op54975/w1Ypd5wNFZx
 
 I still have to visualize the data to tell a story, but my progress is worth a voice. See you in 24 hours for insights and visuals. SEMPER FI
