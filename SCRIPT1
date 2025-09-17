@@ -1,0 +1,82 @@
+NOTE '--' , '/*' , '*/' REPRESENTS THE BEGINNING OR/AND END OF COMMENTS
+
+-- PROJECT 1
+
+SELECT
+  *
+FROM
+  "PROJECT_YC"."PUBLIC"."YC_TABLE";
+
+--Viewing the entire table
+SELECT * FROM YC_TABLE;
+
+--Checking for Duplicates
+SELECT DISTINCT * FROM YC_TABLE;
+
+/*Dropping the company names since it wont be necessary to my analysis*/
+ALTER TABLE YC_TABLE
+DROP Company_Name;
+
+-- Checking how much companies are located in San Francisco
+SELECT location FROM YC_TABLE
+WHERE location LIKE '%San Francisco%';
+
+-- Checking how much companies locations are null
+SELECT location FROM YC_TABLE
+WHERE location IS NULL;
+
+SELECT DISTINCT location 
+FROM YC_TABLE;
+
+-- Checking locations that are not null and not in San Francisco
+SELECT location FROM YC_TABLE
+WHERE NOT location IS NULL AND location NOT LIKE '%San Francisco%';
+
+--Imputing San Francisco as locations where null, since it is the most common location
+UPDATE YC_TABLE
+SET location = 'San Francisco, CA, USA'
+WHERE location IS NULL;
+
+/*I noticed some inconsistencies in locations. I'll go ahead and fix them up for consitency*/
+
+UPDATE YC_TABLE
+SET location = 'New York, NY, USA' 
+WHERE location LIKE '%New York%';
+
+UPDATE YC_TABLE
+SET location = 'San Francisco, CA, USA' 
+WHERE location LIKE '%San Francisco%';
+
+UPDATE YC_TABLE
+SET location = 'Boston, MA, USA' 
+WHERE location LIKE '%Boston%';
+
+UPDATE YC_TABLE
+SET location = 'Bogota, Bogota, Colombia' 
+WHERE location LIKE '%Bogota%';
+
+SELECT DISTINCT Industry
+FROM YC_TABLE;
+
+ALTER TABLE YC_TABLE
+DROP SUBINDUSTRY;
+
+ALTER TABLE YC_TABLE
+RENAME COLUMN C8 TO SUBINDUSTRY;
+-- The above statement gave me alot of headache 
+
+/*Time to deduce which companies are AI companies. I'll do this by checking for patterns in the field "One-liner"*/
+SELECT *,
+CASE
+WHEN ONE_LINER LIKE '%AI%' OR 
+ONE_LINER LIKE '%Agent%' OR 
+ONE_LINER LIKE '%ML%' OR 
+ONE_LINER LIKE '%autonomous%' OR 
+ONE_LINER LIKE'%automate%'
+THEN 'AI Related'
+ELSE 'Not AI Related'
+END AS `AI?`
+FROM YC_TABLE;
+
+
+
