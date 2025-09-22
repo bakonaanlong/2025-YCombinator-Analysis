@@ -38,7 +38,7 @@ To stand higher chances of being accepted into YC, you should some/all of the fo
 
 - Build a B2B company
 - Have your head office in San Francisco
-- Let the company use AI to solve a problem.
+- Endure the company uses AI to solve a critical gap/problem.
 
                                                                                                   Bako Naanlong
 
