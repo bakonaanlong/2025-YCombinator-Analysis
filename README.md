@@ -1,4 +1,4 @@
-    # 2025-YCombinator-Analysis
+     # 2025-YCombinator-Analysis
 
         THIS ENTIRE PROJECT WAS CARRIED OUT WITH SNOWFLAKE
 
