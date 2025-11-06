@@ -102,7 +102,7 @@ The primary objective is to identify **emerging trends, geographic concentration
 - **Dashboard Tab**: Interactive charts and batch comparisons  
 - **Dataset Tab**: Raw data export (CSV) and schema  
 
-**Contact**: For inquiries, data access, or collaboration: [bako.naanlong@domain.com](mailto:bako.naanlong@domain.com)  
+
 
 ---  
 *© 2025 Bako Naanlong. All rights reserved. Data sourced ethically from public YC records.*
