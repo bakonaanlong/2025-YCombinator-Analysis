@@ -1,6 +1,4 @@
 # Y Combinator 2025 Analysis Dashboard  
-**README**  
-*Prepared by: Bako Naanlong*  
  
 
 ---
