@@ -93,9 +93,6 @@ The primary objective is to identify **emerging trends, geographic concentration
 1. **Bridge the location gap**: Incentives in emerging hubs (Africa, Southeast Asia) could diversify YC’s global footprint.  
 2. **Support AI ethics & governance training**: With 62% AI penetration, responsible innovation must scale with volume.  
 
-### For YC & Accelerator Programs  
-1. **Expand industry-specific tracks**: Healthcare and Consumer AI need dedicated mentorship pipelines.  
-2. **Publish AI transparency metrics**: Help founders signal responsible AI practices to LPs and regulators.  
 
 ---
 
