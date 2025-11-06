@@ -53,6 +53,8 @@ The primary objective is to identify **emerging trends, geographic concentration
 
 ## 4. Insights Deep Dive  
 
+![yo yo yo](https://github.com/bakonaanlong/2025-YCombinator-Analysis/blob/main/yc%20dashboard.JPG)
+
 ### 4.1 Location Concentration  
 - **San Francisco** hosts **40%** of all companies, reinforcing its role as the default global startup hub.  
 - **New York, London, Boston, and Toronto** follow, but combined represent less than **15%**.  
