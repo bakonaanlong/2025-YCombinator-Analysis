@@ -5,7 +5,8 @@
 
 ## 1. Background and Overview  
 
-This dashboard presents a comprehensive analysis of companies accepted into the Y Combinator (YC) accelerator program in 2025. Drawing from publicly available data on YC’s official announcements, company profiles, and batch disclosures up to the Summer 2025 cohort, the study examines **474 companies** across three batches: **Spring 2025**, **Winter 2025**, and **Summer 2025**.  
+This dashboard presents a comprehensive analysis of companies accepted into the Y Combinator (YC) accelerator program in 2025. Drawing from publicly available data on YC’s official announcements, company profiles, and batch disclosures up to the Summer 2025 cohort, the study examines **474 companies** across three batches: **Spring 2025**, **Winter 2025**, and **Summer 2025**. This data was visualized in PowerBI
+
 
 The primary objective is to identify **emerging trends, geographic concentration, industry composition, and the prevalence of AI-driven innovation** within the YC ecosystem. By visualizing key metrics—location, industry, AI involvement, and batch distribution—this dashboard enables investors, founders, policymakers, and researchers to understand the evolving priorities of one of the world’s leading startup accelerators.  
 
